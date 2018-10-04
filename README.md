@@ -30,8 +30,8 @@ Lastly, the app's front-end design uses HTML, CSS, BootStrap, javascript, Fireba
 
 ### Screenshots
 - Desktop View
-  * ![Insert(posting)](/ScreenShot/mobile.png)
+  * ![Insert(posting)](/Train Scheduler.png)
 
 
-  
+
 Note: The app udates whenever the page reloads and provides the user the next arrival time using moment.js
