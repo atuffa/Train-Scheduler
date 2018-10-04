@@ -77,9 +77,9 @@ $( document ).ready(function() {
        
     let appendToTable = function(){
         // Used to append or add the newly added train info into the table
-        database.ref().orderByChild("dateAdded").on("child_added", function(snapshot){
+        database.ref().orderByChild("dateAdded").limitToLast(1).on("child_added", function(snapshot){
             let sv = snapshot.val();
-        
+            console.log(sv);
             // variable and functions use to calculate the next train time
             timeConverted = moment(sv.time, "HH:mm").subtract(1, "years");
             console.log(timeConverted.format());
