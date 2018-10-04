@@ -27,4 +27,11 @@ The user is expected to provide the following:
 
 Lastly, the app's front-end design uses HTML, CSS, BootStrap, javascript, Firebase and momment.js. Please see the screenshots below...
 
+
+### Screenshots
+- Desktop View
+  * ![Insert(posting)](/ScreenShot/mobile.png)
+
+
+  
 Note: The app udates whenever the page reloads and provides the user the next arrival time using moment.js
