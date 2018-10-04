@@ -30,7 +30,7 @@ Lastly, the app's front-end design uses HTML, CSS, BootStrap, javascript, Fireba
 
 ### Screenshots
 - Desktop View
-  * ![Train Scheduler](/Train-schedule.png)
+  * ![Train Scheduler](/Train Scheduler.png)
 
 
 
